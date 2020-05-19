@@ -1,0 +1,18 @@
+ResultantRanks_A1.txt
+
+Precision at 5  => 1/5   = 0.2
+Precision at 10 => 3/10  = 0.3
+Precision at 15 => 7/15  = 0.47
+Precision at 20 => 10/20  = 0.5
+Precision at 25 => 12/25 = 0.48
+Precision at 30 => 17/30 = 0.57
+
+
+ResultantRanks_A2.txt
+
+Precision at 5  => 1/5   = 0.2
+Precision at 10 => 4/10  = 0.4
+Precision at 15 => 7/15  = 0.47
+Precision at 20 => 11/20  = 0.55
+Precision at 25 => 14/25 = 0.56
+Precision at 30 => 18/30 = 0.6
